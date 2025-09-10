@@ -15,7 +15,8 @@ Netflix clone/
 └── style.css     # Custom styles
 ```
 ## 🚀 Features
-🎥 Simple Netflix-style homepage layout
-📱 Fully responsive design
-⚡ Lightweight and easy to understand
-🛠️ Easy to customize with your own images and styles
+
+- 🎥 Simple Netflix-style homepage layout  
+- 📱 Fully responsive design  
+- ⚡ Lightweight and easy to understand  
+- 🛠️ Easy to customize with your own images and styles
